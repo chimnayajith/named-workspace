@@ -52,3 +52,7 @@ this._workspaceNames = ['Personal', 'Work', 'Random', 'Workspace 4'];
 ```
 
 Run the installation script again to apply changes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
